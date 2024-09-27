@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
+    "C:\\Users\\Renzo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USUARIO\\source\\repos\\tarea_06_proyecto\\tarea_06_proyecto.csproj",
+      "projectUniqueName": "C:\\Users\\Renzo\\Documents\\IV CICLO\\TAWM\\sesion 06\\tarea_sem06\\tarea_06_proyecto.csproj",
       "projectName": "tarea_06_proyecto",
-      "projectPath": "C:\\Users\\USUARIO\\source\\repos\\tarea_06_proyecto\\tarea_06_proyecto.csproj",
-      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USUARIO\\source\\repos\\tarea_06_proyecto\\obj\\",
+      "projectPath": "C:\\Users\\Renzo\\Documents\\IV CICLO\\TAWM\\sesion 06\\tarea_sem06\\tarea_06_proyecto.csproj",
+      "packagesPath": "C:\\Users\\Renzo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Renzo\\Documents\\IV CICLO\\TAWM\\sesion 06\\tarea_sem06\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Renzo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

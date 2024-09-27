@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\tarea_06_proyecto\\",
+  "WorkspaceRootPath": "C:\\Users\\Renzo\\Documents\\IV CICLO\\TAWM\\sesion 06\\tarea_sem06\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77207A04-D1BB-415A-8BB7-6CBA1C267372}|tarea_06_proyecto.csproj|c:\\users\\usuario\\source\\repos\\tarea_06_proyecto\\controllers\\avalos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77207A04-D1BB-415A-8BB7-6CBA1C267372}|tarea_06_proyecto.csproj|c:\\users\\renzo\\documents\\iv ciclo\\tawm\\sesion 06\\tarea_sem06\\controllers\\vilchez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77207A04-D1BB-415A-8BB7-6CBA1C267372}|tarea_06_proyecto.csproj|solutionrelative:controllers\\vilchez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77207A04-D1BB-415A-8BB7-6CBA1C267372}|tarea_06_proyecto.csproj|c:\\users\\renzo\\documents\\iv ciclo\\tawm\\sesion 06\\tarea_sem06\\controllers\\avalos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77207A04-D1BB-415A-8BB7-6CBA1C267372}|tarea_06_proyecto.csproj|solutionrelative:controllers\\avalos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77207A04-D1BB-415A-8BB7-6CBA1C267372}|tarea_06_proyecto.csproj|c:\\users\\usuario\\source\\repos\\tarea_06_proyecto\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77207A04-D1BB-415A-8BB7-6CBA1C267372}|tarea_06_proyecto.csproj|c:\\users\\renzo\\documents\\iv ciclo\\tawm\\sesion 06\\tarea_sem06\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77207A04-D1BB-415A-8BB7-6CBA1C267372}|tarea_06_proyecto.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,10 +27,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Vilchez.cs",
+              "DocumentMoniker": "C:\\Users\\Renzo\\Documents\\IV CICLO\\TAWM\\sesion 06\\tarea_sem06\\Controllers\\Vilchez.cs",
+              "RelativeDocumentMoniker": "Controllers\\Vilchez.cs",
+              "ToolTip": "C:\\Users\\Renzo\\Documents\\IV CICLO\\TAWM\\sesion 06\\tarea_sem06\\Controllers\\Vilchez.cs",
+              "RelativeToolTip": "Controllers\\Vilchez.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:14:27.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Avalos.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\tarea_06_proyecto\\Controllers\\Avalos.cs",
+              "DocumentMoniker": "C:\\Users\\Renzo\\Documents\\IV CICLO\\TAWM\\sesion 06\\tarea_sem06\\Controllers\\Avalos.cs",
               "RelativeDocumentMoniker": "Controllers\\Avalos.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\tarea_06_proyecto\\Controllers\\Avalos.cs",
+              "ToolTip": "C:\\Users\\Renzo\\Documents\\IV CICLO\\TAWM\\sesion 06\\tarea_sem06\\Controllers\\Avalos.cs",
               "RelativeToolTip": "Controllers\\Avalos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -35,16 +52,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\tarea_06_proyecto\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Renzo\\Documents\\IV CICLO\\TAWM\\sesion 06\\tarea_sem06\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\tarea_06_proyecto\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Renzo\\Documents\\IV CICLO\\TAWM\\sesion 06\\tarea_sem06\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T15:58:20.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T15:58:20.892Z"
             }
           ]
         }
